@@ -17,9 +17,7 @@ Crystal Type: Mirage Crystal
 Crystal Lore: The Mirage Crystal within Nocturnea's exoskeleton projects illusions that defy cosmic perceptions. Legends speak of its power to create false realities, challenging the very fabric of the lunar family's understanding.
 
 Core Type: Fire Core
-Core Lore: Nocturnea's Fire Core blazes with the deceptive warmth of illusory flames. The fiery illusions dance with shadows, creating a cosmic spectacle that leaves the lunar family questioning the 
-
-boundaries between reality and mirage."
+Core Lore: Nocturnea's Fire Core blazes with the deceptive warmth of illusory flames. The fiery illusions dance with shadows, creating a cosmic spectacle that leaves the lunar family questioning the boundaries between reality and mirage."
 
 ---
 
